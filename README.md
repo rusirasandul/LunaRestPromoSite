@@ -121,4 +121,4 @@ This project is a web application designed to help university students manage an
 
 ## [License](pplx://action/followup)
 
-[Specify the license here, e.g., MIT License]
+[MIT License]
